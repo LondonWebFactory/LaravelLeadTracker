@@ -1,4 +1,4 @@
-# Database Dictionary
+# Relaticle Database Dictionary
 
 Generated: 2026-02-27 08:49:54
 
